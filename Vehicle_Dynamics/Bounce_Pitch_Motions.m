@@ -1,4 +1,4 @@
-%%% TEST #2 Problem #1, Road Vehicle Dynamics, Spring 2018 %%%
+%%%Problem #1, Road Vehicle Dynamics %%%
            %%% Eduardo Corral %%%
 % Inputs %
 m = 800; % kg spring mass 
